@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(24, 97, 70);
+    font-size: 30px;
+}
+
+button {
+    background: rgb(153, 226, 190);
+    color: rgb(0, 3, 6);
+    padding: 5px;
+}
+
+#saida {
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(47, 95, 79);
+}
+body {
+    background-color: rgb(206, 255, 219);
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
